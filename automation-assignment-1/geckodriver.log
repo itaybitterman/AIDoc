@@ -1,0 +1,1359 @@
+1666721190799	geckodriver	INFO	Listening on 127.0.0.1:55796
+1666721193882	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55797" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileL74K7z"
+1666721194541	Marionette	INFO	Marionette enabled
+1666721194550	Marionette	INFO	Listening on port 56002
+WebDriver BiDi listening on ws://127.0.0.1:55797
+1666721195181	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileL74K7z\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55797/devtools/browser/fca4bfa9-0769-4d52-bd01-10721c14bf0a
+1666721222474	Marionette	INFO	Stopped listening on port 56002
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666731617016	geckodriver	INFO	Listening on 127.0.0.1:63441
+1666731620127	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63442" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileNhgKvI"
+1666731620999	Marionette	INFO	Marionette enabled
+1666731621005	Marionette	INFO	Listening on port 63460
+WebDriver BiDi listening on ws://127.0.0.1:63442
+1666731621414	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileNhgKvI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63442/devtools/browser/203ef603-b3ae-46c6-843c-653c0ae518a7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666732612616	Marionette	INFO	Stopped listening on port 63460
+[Parent 21436, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+vTools listening on ws://127.0.0.1:63620/devtools/browser/4bcb8ad7-0eb8-4bdb-93e9-0cf4dcb32f83
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1666731771529	Marionette	INFO	Stopped listening on port 63625
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666732543122	geckodriver	INFO	Listening on 127.0.0.1:63821
+1666732546232	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63822" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofile54omry"
+1666732546682	Marionette	INFO	Marionette enabled
+1666732546690	Marionette	INFO	Listening on port 63827
+WebDriver BiDi listening on ws://127.0.0.1:63822
+1666732546819	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofile54omry\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63822/devtools/browser/8bd7504f-7166-4433-9e03-26544f3ba02d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1666732613539	Marionette	INFO	Stopped listening on port 63827
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "63900" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileqHjhcJ"
+1666732613701	Marionette	INFO	Marionette enabled
+1666732613709	Marionette	INFO	Listening on port 63906
+WebDriver BiDi listening on ws://127.0.0.1:63900
+1666732614072	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileqHjhcJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63900/devtools/browser/a8ec7490-c020-48f5-9be8-35afddcca0a3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1666732627860	Marionette	INFO	Stopped listening on port 63906
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666732633675	geckodriver	INFO	Listening on 127.0.0.1:64005
+1666732636781	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64006" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofile2ZIbFU"
+1666732637289	Marionette	INFO	Marionette enabled
+1666732637300	Marionette	INFO	Listening on port 64018
+WebDriver BiDi listening on ws://127.0.0.1:64006
+1666732638149	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofile2ZIbFU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64006/devtools/browser/91e6aaa5-1f12-4aa7-b1e6-d59075017897
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S352485542%3A1666732640557145&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWrmmk9WX3jJsPzdn7FPFvaKSN2jZFADHQaKbDWgSKRGpTyrrw0TZb_U2_dA6BSpOwuEGLdhAA line 700 > injectedScript line 2 > eval line 4083 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1003))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal4294967298/pagestyle23 (resource://devtools/server/actors/page-style.js:1003:5)", "resource://devtools/shared/protocol/Front.js", 383))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.error: "Unable to find target with innerWindowId:4294967298"
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666734408252	Marionette	INFO	Stopped listening on port 64018
+rn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileYyX1iX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50830/devtools/browser/7f1e08e8-4395-4355-86c4-19c691b160b1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-100130225%3A1666733064698318&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWqWP9Ne_N5FuIKBeSrfMGm1vleuBySKkdxsgZI0y7FMbVFvT4uaFGFBgpO4_5QqtzTXuG41-g line 700 > injectedScript line 2 > eval line 6546 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.error: "Unable to find target with innerWindowId:4294967298"
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666734400371	Marionette	INFO	Stopped listening on port 50835
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+gs file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofilelMNI22\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51051/devtools/browser/64c9cb79-5993-4cd1-a8eb-e29448c24fd2
+1666733689655	Marionette	INFO	Stopped listening on port 51056
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666733708416	geckodriver	INFO	Listening on 127.0.0.1:51149
+1666733711504	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51150" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileTicWrR"
+1666733712007	Marionette	INFO	Marionette enabled
+1666733712014	Marionette	INFO	Listening on port 51156
+WebDriver BiDi listening on ws://127.0.0.1:51150
+1666733712689	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileTicWrR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51150/devtools/browser/27c4acfe-b96e-4e13-b8dd-0fb4a2686302
+1666733729114	Marionette	INFO	Stopped listening on port 51156
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666733764837	geckodriver	INFO	Listening on 127.0.0.1:51267
+1666733767952	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51268" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofilejbg7kt"
+1666733768473	Marionette	INFO	Marionette enabled
+1666733768480	Marionette	INFO	Listening on port 51273
+WebDriver BiDi listening on ws://127.0.0.1:51268
+1666733769133	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofilejbg7kt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51268/devtools/browser/35497aa1-cd75-4825-a8fa-6017a6da2319
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S1476984595%3A1666733771288904&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWo-53DTbOR_2rOymCtaOeghKXvqFE-rGrUdwAVk8lWNNx9_TJ88kWM8CDSHZ-NH8TQdwa6FeQ line 700 > injectedScript line 2 > eval line 1947 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/signin/v2/challenge/selection?TL=AB_wV5oz1Pv0XtSQjV7yWexmon-MJJfDxGhwJ8D1CuUgLCLxzrC_A00BpgVGCwQU&checkConnection=youtube%3A346%3A1&checkedDomains=youtube&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&dsh=S1476984595%3A1666733771288904&emr=1&flowEntry=ServiceLogin&flowName=GlifWebSignIn&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AQDHYWo-53DTbOR_2rOymCtaOeghKXvqFE-rGrUdwAVk8lWNNx9_TJ88kWM8CDSHZ-NH8TQdwa6FeQ&lid=2&osid=1&pstMsg=1&service=mail line 2 > eval line 2719 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/gGH5MXBYpKK8b4jYkKtywiBl7RPPQJG6QKYwKihakJE.js line 2 > eval line 5398 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666733937877	Marionette	INFO	Stopped listening on port 51273
+1666733949140	geckodriver	INFO	Listening on 127.0.0.1:52667
+1666733952221	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52668" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileXNjtm5"
+1666733952900	Marionette	INFO	Marionette enabled
+1666733952909	Marionette	INFO	Listening on port 52682
+WebDriver BiDi listening on ws://127.0.0.1:52668
+1666733953331	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileXNjtm5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52668/devtools/browser/78552566-2fc8-4063-bed9-00b66238e9e5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-1056480255%3A1666733955970076&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWovxxSj7k2rVZW4AXEXsFXvlzYKy-u8U-FtqVWzaNv31P3hSC_xB1eJptaQoWy0FRbCIYimkA line 700 > injectedScript line 2 > eval line 235 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1666733973634	Marionette	INFO	Stopped listening on port 52682
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666734044103	geckodriver	INFO	Listening on 127.0.0.1:52756
+1666734047208	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52757" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofilex0AwZH"
+1666734047621	Marionette	INFO	Marionette enabled
+1666734047629	Marionette	INFO	Listening on port 52762
+WebDriver BiDi listening on ws://127.0.0.1:52757
+1666734047865	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofilex0AwZH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52757/devtools/browser/07c883eb-3993-44b6-9c27-b762739b50d1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S637591421%3A1666734050646995&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWru8u9v9K130ddJWLt_Qur3tZDvFMXtKEqtigufDVodGzgyx34myG8aP7AONjdn4kH4ls8xHQ line 700 > injectedScript line 2 > eval line 2307 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1666734065789	Marionette	INFO	Stopped listening on port 52762
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666734410483	geckodriver	INFO	Listening on 127.0.0.1:52899
+1666734413592	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52900" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofile3p3Sbj"
+1666734414127	Marionette	INFO	Marionette enabled
+1666734414132	Marionette	INFO	Listening on port 52905
+WebDriver BiDi listening on ws://127.0.0.1:52900
+1666734414899	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofile3p3Sbj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52900/devtools/browser/35bf887e-6926-4b98-91dc-d2ea44f41a32
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S788671300%3A1666734416713626&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWqXxh_4X_o0vzbWx4pZxcCD7e87KyZxiZK8wuI3ST6_X42y6g4yjn2Jdny3yzIk7AT2O1WmWQ line 700 > injectedScript line 2 > eval line 2207 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1666771994765	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666772860813	Marionette	INFO	Stopped listening on port 52905
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 19312, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofilemkwTuD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52988/devtools/browser/69176270-5234-4986-98ef-84e80e4d89bd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S151578195%3A1666734500836369&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWq5UxCMLeE9NBuwgkqYwDj-bVq9BhyaP78JCpiQWHdlxhkn9ntF1KtnEBU4-msexffGZtX8XQ line 700 > injectedScript line 2 > eval line 5188 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/568fMfmsPhabDhBQKM56ETVW7wyafyuYtNw47YmmG7Q.js line 2 > eval line 6418 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1666771995749	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666773001791	Marionette	INFO	Stopped listening on port 52993
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+"get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofile62VqNu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53152/devtools/browser/c4be6c64-caed-4e49-8cca-c92ad3ef1daa
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S2014131240%3A1666734623026705&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWrHikWD8nBteQhvskaFThXyHeMOz2bBde2DDWoHrVSnQcLyL-_h8jITpJiuY_0sCMXd4d_A line 700 > injectedScript line 2 > eval line 5671 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/gGH5MXBYpKK8b4jYkKtywiBl7RPPQJG6QKYwKihakJE.js line 2 > eval line 5144 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.en.ZlJf2WrtqS0.es5.O/am=BlzcDf4v4UcAMEIc8Px24GfCsAQcAWCA_ckABBAAECOrqd6bcJIdPyQAAAFoZ8U4xgEA45pnoOM8IUwGACwAAAAAAAAAAAAAAAAAAABgV5Qf/d=1/im=1/dg=0/br=1/wt=1/rs=AHGWq9ABNrF3xI2GZZMqSNB2TGYaEO5GiQ/cb=loaded_0/m=b, line 1248: Error: Bd`spsy`Consecutive load failures (-1)
+JavaScript error: , line 0: uncaught exception: CustomError: Error in protected function: Module "spsy" failed to load when requesting the service "o6ll3e" [cause: Error: Bd`spsy`Consecutive load failures (-1)]
+JavaScript error: , line 0: uncaught exception: CustomError: Error in protected function: Bd`spsy`Consecutive load failures (-1)
+1666772112913	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666773000765	Marionette	INFO	Stopped listening on port 53157
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofile5Pd2uR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53338/devtools/browser/3636d428-5a59-4f41-968e-2185ed144255
+1666772196286	Marionette	INFO	Stopped listening on port 53343
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666772201749	geckodriver	INFO	Listening on 127.0.0.1:57278
+1666772204902	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57279" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofile8UP8J1"
+1666772205562	Marionette	INFO	Marionette enabled
+1666772205570	Marionette	INFO	Listening on port 57299
+WebDriver BiDi listening on ws://127.0.0.1:57279
+1666772205971	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofile8UP8J1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57279/devtools/browser/5a04c1cc-f516-4dfe-88a6-e72aa553750d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-804628176%3A1666772208085710&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWrhtnRBEjNxZNRRxgfkKhC-TyIZe3b0QZQSU1OXZN9s4JTB_xz5hN6hlDbpPQz_howa4mih line 700 > injectedScript line 2 > eval line 1588 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/OLZMwUuXKff5QHkWgJZ5Acpn9ezP58Pxr98BvfUDCEE.js line 2 > eval line 4771 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666772998830	Marionette	INFO	Stopped listening on port 57299
+[Parent 5840, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+r\\AppData\\Local\\Temp\\rust_mozprofilePFzoWq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51848/devtools/browser/283e06b7-fed0-43d7-8f55-cc1d0f0a8c86
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-1577042678%3A1666772949745465&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWpykfayh7DaN1iEVVMuX1aX6MUG5vqJ-tCWq5uSmdm3N0zqM-LgR8-k7qWl0DPeAIYjEu7_xw line 700 > injectedScript line 2 > eval line 2139 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/OLZMwUuXKff5QHkWgJZ5Acpn9ezP58Pxr98BvfUDCEE.js line 2 > eval line 5141 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666772978315	Marionette	INFO	Stopped listening on port 51854
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666773033072	geckodriver	INFO	Listening on 127.0.0.1:51995
+1666773036159	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51996" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofile7oYeza"
+1666773036668	Marionette	INFO	Marionette enabled
+1666773036677	Marionette	INFO	Listening on port 52003
+WebDriver BiDi listening on ws://127.0.0.1:51996
+1666773036819	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofile7oYeza\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51996/devtools/browser/7e17edde-33b5-4838-813c-547c10f11a9f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-1392136536%3A1666773040785240&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWqRVOoS6CqHUxcs-A9JmdfiWx48amdv-g4uBKl1HllEw5eLyx-KFOxwn8aG1jZVNMixcVTLfA line 700 > injectedScript line 2 > eval line 3145 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/OLZMwUuXKff5QHkWgJZ5Acpn9ezP58Pxr98BvfUDCEE.js line 2 > eval line 4336 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666773311292	Marionette	INFO	Stopped listening on port 52003
+earchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofilewTTDBb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52142/devtools/browser/53712579-5fde-4a43-af60-143ab7b2d28e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-1240494334%3A1666773160586990&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWp7fJyeS7z9gbpxbUf-Q4qscYm2y88-IxTIliTJ54iBv-SmbUkAmE1mUdED_Z8BTEsl0xI3XA line 700 > injectedScript line 2 > eval line 527 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/OLZMwUuXKff5QHkWgJZ5Acpn9ezP58Pxr98BvfUDCEE.js line 2 > eval line 5183 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 2088: TypeError: currentPanel is undefined
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, 1666773310516	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52406" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofile4Pswte"
+1666773311272	Marionette	INFO	Marionette enabled
+1666773311282	Marionette	INFO	Listening on port 52413
+WebDriver BiDi listening on ws://127.0.0.1:52406
+1666773311704	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofile4Pswte\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52406/devtools/browser/76f9dda6-3275-4d5f-ae87-6f854279cad4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-1274632953%3A1666773318901378&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWrY20dCqWVpFWiX8Ry1IXzvaDsxAYjlD3YGrVf344iEhD0UCVtdSklKxxpKxTB_xccLgJGSsw line 700 > injectedScript line 2 > eval line 1017 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/OLZMwUuXKff5QHkWgJZ5Acpn9ezP58Pxr98BvfUDCEE.js line 2 > eval line 6613 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666773447792	Marionette	INFO	Stopped listening on port 52413
+1666773513028	geckodriver	INFO	Listening on 127.0.0.1:52778
+1666773516131	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52779" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileQg7ykw"
+1666773516670	Marionette	INFO	Marionette enabled
+1666773516680	Marionette	INFO	Listening on port 52797
+WebDriver BiDi listening on ws://127.0.0.1:52779
+1666773517415	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileQg7ykw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52779/devtools/browser/37fab5ea-d25a-4929-8e1f-60068ae26080
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-1106972189%3A1666773518871762&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWrYRmKOH-tzmSbqVK5RBKyVf73Wl3zHiJWg0yBNOkqPbuwSmUTPKh8CNOKopjJmEFVjl60mFg line 700 > injectedScript line 2 > eval line 5345 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/S59cL8NpNlz03nuQ7M-TG0OvY6nWg2CBBQLmeE6XtI4.js line 2 > eval line 5030 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/bg/OLZMwUuXKff5QHkWgJZ5Acpn9ezP58Pxr98BvfUDCEE.js line 2 > eval line 3759 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1666775038530	Marionette	INFO	Stopped listening on port 52797
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 12436, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 12436, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+tening on ws://127.0.0.1:53063/devtools/browser/00adf0c4-121b-4794-932b-df205c4c7e2c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S251806564%3A1666773679581135&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWo3PFWeOOuPn0Wcqzeyw_iTHdSW3bi40brKu6gsnx5bnSEgo51YBVQbWkTUT9QVg_Op2aUCdQ line 700 > injectedScript line 2 > eval line 169 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1666773697863	Marionette	INFO	Stopped listening on port 53061666773699575	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53146" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofilek5K5Kf"
+1666773700139	Marionette	INFO	Marionette enabled
+1666773700145	Marionette	INFO	Listening on port 53152
+WebDriver BiDi listening on ws://127.0.0.1:53146
+1666773700845	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofilek5K5Kf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53146/devtools/browser/2d0661f1-ab1d-4e8d-8856-0a10081f9a63
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S1711511390%3A1666773702560358&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWo1daVSVyClxx5EqXmuZxA0RbmVjmC8foZ_RNMuiq61Q7M7TPRUtozZL0ihjHouu86e3RIUUA line 700 > injectedScript line 2 > eval line 4389 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1666773725723	Marionette	INFO	Stopped listening on port 53151666773726587	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53226" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileQ7LzYj"
+1666773727211	Marionette	INFO	Marionette enabled
+1666773727221	Marionette	INFO	Listening on port 53232
+WebDriver BiDi listening on ws://127.0.0.1:53226
+1666773727897	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileQ7LzYj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53226/devtools/browser/b09eb617-c13c-4c71-9c17-ae8c6d9136cb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-2096567629%3A1666773729604807&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWqiORH0dFsTwWTSv9WAO5BbKF82XpBN8uQJuUdX7raCA_mHHiDJqN-lTWEBr6FWc4GGH16UrA line 700 > injectedScript line 2 > eval line 1041 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/OLZMwUuXKff5QHkWgJZ5Acpn9ezP58Pxr98BvfUDCEE.js line 2 > eval line 5046 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.en.ZlJf2WrtqS0.es5.O/am=BlzcDf4v4UcAMEIc8Px24GfCsAQcAWCA_ckABBAAECOrqd6bcJIdPyQAAAFoZ8U4xgEA45pnoOM8IUwGACwAAAAAAAAAAAAAAAAAAABgV5Qf/d=1/im=1/dg=0/br=1/wt=1/rs=AHGWq9ABNrF3xI2GZZMqSNB2TGYaEO5GiQ/cb=loaded_0/m=b, line 1308: Error: Kd
+JavaScript error: https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.en.ZlJf2WrtqS0.es5.O/am=BlzcDf4v4UcAMEIc8Px24GfCsAQcAWCA_ckABBAAECOrqd6bcJIdPyQAAAFoZ8U4xgEA45pnoOM8IUwGACwAAAAAAAAAAAAAAAAAAABgV5Qf/d=1/im=1/dg=0/br=1/wt=1/rs=AHGWq9ABNrF3xI2GZZMqSNB2TGYaEO5GiQ/cb=loaded_0/m=b, line 1308: Error: Kd
+1666774124139	Marionette	INFO	Stopped listening on port 53232
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+wup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWq54Q3mk8EM8UV70mLFWkd1WiSzrI2D8nvnqE7JIZGHh4V3nPyVa6s7bPYlpLWjxrVaNKVrfA line 700 > injectedScript line 2 > eval line 3926 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/OLZMwUuXKff5QHkWgJZ5Acpn9ezP58Pxr98BvfUDCEE.js line 2 > eval line 457 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666775037566	Marionette	INFO	Stopped listening on port 53570
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 12868, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 12868, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+ng on ws://127.0.0.1:54712
+1666774719452	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofilek3WT1r\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54712/devtools/browser/1ec8a11f-e17d-4631-a3eb-198a8a9597cd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-150853533%3A1666774721796980&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWoVSdXLR5QiuSVXHbeLASNrMrtX7zt1tPKMZSxbcWbtR1YGDcKkGW4kcZ7rvodlZX-E-8MBoA line 700 > injectedScript line 2 > eval line 1249 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/OLZMwUuXKff5QHkWgJZ5Acpn9ezP58Pxr98BvfUDCEE.js line 2 > eval line 2154 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666775036313	Marionette	INFO	Stopped listening on port 54717
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54977" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileUIR9o8"
+1666774965227	Marionette	INFO	Marionette enabled
+1666774965242	Marionette	INFO	Listening on port 54982
+WebDriver BiDi listening on ws://127.0.0.1:54977
+1666774965755	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileUIR9o8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54977/devtools/browser/3b98a9be-1bb0-4c90-ad35-747facb48901
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1666774980148	Marionette	INFO	Stopped listening on port 54982
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666774998814	geckodriver	INFO	Listening on 127.0.0.1:55047
+1666775001927	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55048" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileyD47a3"
+1666775002407	Marionette	INFO	Marionette enabled
+1666775002415	Marionette	INFO	Listening on port 55053
+WebDriver BiDi listening on ws://127.0.0.1:55048
+1666775002603	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileyD47a3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55048/devtools/browser/6f1b8523-2a8e-4aad-ac21-d1f06803af19
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-334655277%3A1666775005015402&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWrDLbdBUTzMeN4XIgt1pWVzSUoqIgTKphvVJJBD8WDNjn17bRcCAUfebME1L1wd29s5dwI2 line 700 > injectedScript line 2 > eval line 5118 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/OLZMwUuXKff5QHkWgJZ5Acpn9ezP58Pxr98BvfUDCEE.js line 2 > eval line 1531 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666775035080	Marionette	INFO	Stopped listening on port 55053
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666775040655	geckodriver	INFO	Listening on 127.0.0.1:55251
+1666775043722	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55252" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofile1yX8Z9"
+1666775044307	Marionette	INFO	Marionette enabled
+1666775044317	Marionette	INFO	Listening on port 55258
+WebDriver BiDi listening on ws://127.0.0.1:55252
+1666775044830	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofile1yX8Z9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55252/devtools/browser/e497b532-ebda-49c0-bf2d-fe4b0988f707
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-1593458393%3A1666775047289227&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWplie7HdeDlUAQrZfEliVd7Ros4C-u0TUwUCgOZ38smtGeL7Vdu-u6IvLBIha1EYlG9TEw9WA line 700 > injectedScript line 2 > eval line 2388 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/OLZMwUuXKff5QHkWgJZ5Acpn9ezP58Pxr98BvfUDCEE.js line 2 > eval line 3814 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666775120847	Marionette	INFO	Stopped listening on port 55251666775121619	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55459" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofile5LPD5I"
+1666775122241	Marionette	INFO	Marionette enabled
+1666775122246	Marionette	INFO	Listening on port 55466
+WebDriver BiDi listening on ws://127.0.0.1:55459
+1666775122704	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofile5LPD5I\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55459/devtools/browser/48a1a420-3562-4d60-834f-6caf933d9007
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S1611147232%3A1666775155774876&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWqflTcgBejbM81266FGmE7o75vrWUp6qPF3XRsLVrrKwzdu3z-6HDzh2zkd-eXqtuNUtkAZnw line 700 > injectedScript line 2 > eval line 404 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/OLZMwUuXKff5QHkWgJZ5Acpn9ezP58Pxr98BvfUDCEE.js line 2 > eval line 5733 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdow1666775265525	Marionette	INFO	Marionette enabled
+1666775265532	Marionette	INFO	Listening on port 53241
+WebDriver BiDi listening on ws://127.0.0.1:53235
+1666775265921	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileoTAHaZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53235/devtools/browser/5292409f-76c1-4a8d-84ea-fc6c1fd04801
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-1610462852%3A1666775268217000&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWphKGWOc--wH0rlDmSsUFGn0YlN6rtHZIfo1HR9pY7GsyupVbLmVnvk-zQTftoe2riaRRCz line 700 > injectedScript line 2 > eval line 6887 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/OLZMwUuXKff5QHkWgJZ5Acpn9ezP58Pxr98BvfUDCEE.js line 2 > eval line 3412 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666775485336	Marionette	INFO	Stopped listening on port 53241
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "53470" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofile7Ay80K"
+1666775308542	Marionette	INFO	Marionette enabled
+1666775308548	Marionette	INFO	Listening on port 53475
+WebDriver BiDi listening on ws://127.0.0.1:53470
+1666775309008	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofile7Ay80K\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53470/devtools/browser/4a228691-1ac6-4a69-a87e-35c8cdd05ef4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S1007475114%3A1666775311397591&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWoepzBBpaiphbCqikuv6LZZ490yBzAaRfR718p94LITk_NOyrvFXdT1-m_JhQaFQq0u1oLVcQ line 700 > injectedScript line 2 > eval line 5594 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/OLZMwUuXKff5QHkWgJZ5Acpn9ezP58Pxr98BvfUDCEE.js line 2 > eval line 7337 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666775485395	Marionette	INFO	Stopped listening on port 53475
+\AppData\\Local\\Temp\\rust_mozprofileAoiuqH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58959/devtools/browser/7e8ab7fd-1fc0-4b37-bb30-f4294db81f11
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-872203377%3A1666775460335298&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWrIrB8ImDB4gP7akzHrc7bTI2RIvOrP7WKWk1oKIfaORng_Hhz6jYm1qqeNtrpFxe-_Bn-15Q line 700 > injectedScript line 2 > eval line 2607 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/OLZMwUuXKff5QHkWgJZ5Acpn9ezP58Pxr98BvfUDCEE.js line 2 > eval line 3757 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666775483622	Marionette	INFO	Stopped listening on port 58966
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666775493195	geckodriver	INFO	Listening on 127.0.0.1:59135
+1666775496304	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59136" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofilen6yhdX"
+1666775496843	Marionette	INFO	Marionette enabled
+1666775496849	Marionette	INFO	Listening on port 59141
+WebDriver BiDi listening on ws://127.0.0.1:59136
+1666775497580	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofilen6yhdX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59136/devtools/browser/1f083855-e8cc-4e69-9ef8-9acbb561770b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-1962748487%3A1666775499447237&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWorfwHeJHYo46gE9X5r2VOyPUsf9JPSgFjHEimiBIVdcGUn3BLEyKR_t9BidMNPwaiJ2nsK0w line 700 > injectedScript line 2 > eval line 6073 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/OLZMwUuXKff5QHkWgJZ5Acpn9ezP58Pxr98BvfUDCEE.js line 2 > eval line 723 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666775533967	Marionette	INFO	Stopped listening on port 59141666775535593	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59304" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofile3JiRAW"
+1666775536099	Marionette	INFO	Marionette enabled
+1666775536111	Marionette	INFO	Listening on port 59311
+WebDriver BiDi listening on ws://127.0.0.1:59304
+1666775536960	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofile3JiRAW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59304/devtools/browser/8ec6d137-6cbf-4171-98a7-4aa41880a239
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S1023584798%3A1666775538959011&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWrm7nix51cfYzDMllMaWA6X2kq7ghZ2k5Rkrig_6OFdT8_XJBurzPHNq_DekWElqXr6SMmtMA line 700 > injectedScript line 2 > eval line 7796 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/OLZMwUuXKff5QHkWgJZ5Acpn9ezP58Pxr98BvfUDCEE.js line 2 > eval line 7156 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967321/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:48:19\n_getWalker@resource://devtools/client/fronts/inspector.js:89:30\ninitialize@resource://devtools/client/fronts/inspector.js:78:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967321/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:48:19\n_getWalker@resource://devtools/client/fronts/inspector.js:89:30\ninitialize@resource://devtools/client/fronts/inspector.js:78:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal4294967321/inspectorActor4, type getWalker failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:300:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:48:19
+_getWalker@resource://devtools/client/fronts/inspector.js:89:30
+initialize@resource://devtools/client/fronts/inspector.js:78:12
+
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript warning: https://www.google.com/js/bg/OLZMwUuXKff5QHkWgJZ5Acpn9ezP58Pxr98BvfUDCEE.js line 2 > eval line 5068 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666775698902	Marionette	INFO	Stopped listening on port 59311
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 21216, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666775702449	geckodriver	INFO	Listening on 127.0.0.1:59505
+1666775705557	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59506" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofilezufve1"
+1666775706003	Marionette	INFO	Marionette enabled
+1666775706011	Marionette	INFO	Listening on port 59511
+WebDriver BiDi listening on ws://127.0.0.1:59506
+1666775706211	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofilezufve1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59506/devtools/browser/9430e624-05ad-4ba8-90ed-97da19f8894b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S251986244%3A1666775708596256&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWqwolLNFB7PyviITzPK-7yIWg8YaUvh_Zx6z93usoXFtt74EPlj4bgUku6ofwyxYNPKyOsi-w line 700 > injectedScript line 2 > eval line 1373 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/OLZMwUuXKff5QHkWgJZ5Acpn9ezP58Pxr98BvfUDCEE.js line 2 > eval line 28 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666775733413	Marionette	INFO	Stopped listening on port 59511
+6775731954	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59691" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofile03cDaO"
+1666775732500	Marionette	INFO	Marionette enabled
+1666775732508	Marionette	INFO	Listening on port 59697
+WebDriver BiDi listening on ws://127.0.0.1:59691
+1666775733150	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofile03cDaO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59691/devtools/browser/da6c903d-8e8e-43d6-aa8e-daa62cf964c1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S436901410%3A1666775735214868&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWqNo03uh8HKlIbkCqY1urCfkp_YDt6AmE4sHPSnk691F3rlPqXBgj7V7q4e1vk4XMbB0EAN line 700 > injectedScript line 2 > eval line 1819 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/OLZMwUuXKff5QHkWgJZ5Acpn9ezP58Pxr98BvfUDCEE.js line 2 > eval line 1972 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666775786564	Marionette	INFO	Stopped listening on port 59697
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "59868" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileU7Re8Z"
+1666775758903	Marionette	INFO	Marionette enabled
+1666775758914	Marionette	INFO	Listening on port 59873
+WebDriver BiDi listening on ws://127.0.0.1:59868
+1666775759147	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileU7Re8Z\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59868/devtools/browser/68777616-e855-469d-b696-5fbf189aa34f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S369960558%3A1666775761309048&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWqOqCXsBxntPf-YlPHn0GpZZtVzz7rR3X6RGuS5Orb2c4IzJWybVDNFCvOih9ECM00R7XDktQ line 700 > injectedScript line 2 > eval line 3950 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/OLZMwUuXKff5QHkWgJZ5Acpn9ezP58Pxr98BvfUDCEE.js line 2 > eval line 6270 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666778208934	Marionette	INFO	Stopped listening on port 59873
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "60435" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileUmH8E7"
+1666776401268	Marionette	INFO	Marionette enabled
+1666776401274	Marionette	INFO	Listening on port 60440
+WebDriver BiDi listening on ws://127.0.0.1:60435
+1666776401442	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileUmH8E7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60435/devtools/browser/16f3141e-821c-4f54-9482-8e6848e57100
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-586286763%3A1666776404928774&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWrNZCInV9X_ykuxxXCQvYEHqZN79TwfiFBZGPQeqV2ysJ9mBWwY-8bKxUMY2ooptr3kzFdMTg line 700 > injectedScript line 2 > eval line 5408 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/OLZMwUuXKff5QHkWgJZ5Acpn9ezP58Pxr98BvfUDCEE.js line 2 > eval line 5490 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://www.google.com/js/bg/OLZMwUuXKff5QHkWgJZ5Acpn9ezP58Pxr98BvfUDCEE.js line 2 > eval line 5892 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, 1666776578105	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60935" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofilel4KAPR"
+1666776578674	Marionette	INFO	Marionette enabled
+1666776578686	Marionette	INFO	Listening on port 60940
+WebDriver BiDi listening on ws://127.0.0.1:60935
+1666776579170	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofilel4KAPR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60935/devtools/browser/876be903-7602-48d7-8ba2-b4e2d7a06310
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-1240542464%3A1666776581421255&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWotiSMcF4KGJxsOATmXmbLpzqcxX4edjDEKxIr7TGIV61yB5T5XdWenJtSP2HV1KwOshIILyw line 700 > injectedScript line 2 > eval line 1498 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/OLZMwUuXKff5QHkWgJZ5Acpn9ezP58Pxr98BvfUDCEE.js line 2 > eval line 5772 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666776666430	Marionette	INFO	Stopped listening on port 60940
+earchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileRgYllk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61114/devtools/browser/e748a139-a188-4263-b73b-9121bd22b4ef
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S1544544191%3A1666776645489312&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWqFELRdLilSioiRGNX5cvvV7QZchBz_RR5-rszQ9dkO_c6Tb_zIi43LlLgUC9u5nwr44f5njg line 700 > injectedScript line 2 > eval line 944 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1666776664634	Marionette	INFO	Stopped listening on port 61121
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666776669395	geckodriver	INFO	Listening on 127.0.0.1:61261
+1666776672520	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61262" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofile7RGpIe"
+1666776673063	Marionette	INFO	Marionette enabled
+1666776673073	Marionette	INFO	Listening on port 61267
+WebDriver BiDi listening on ws://127.0.0.1:61262
+1666776673880	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofile7RGpIe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61262/devtools/browser/a8c22a7d-90ec-47e6-87fa-b62189bee4de
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S1476984595%3A1666776675903491&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWqE4JxmOatQbbwRUGJZKPDYx0-bwdPGxXE0voqPIuxcAepoVrg8uMZr85nwZq5YsF3r8oWTvg line 700 > injectedScript line 2 > eval line 5653 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/OLZMwUuXKff5QHkWgJZ5Acpn9ezP58Pxr98BvfUDCEE.js line 2 > eval line 6353 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666777418878	Marionette	INFO	Stopped listening on port 61267
+earchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileinea9X\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61506/devtools/browser/a991a429-45f4-4871-ad08-e9f9d109e33d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-520045762%3A1666777076892164&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWqjn3ui0BAPv0gpyiYBNCI0Tm7IAmvof1kbGufGSivqtoH-tfmwX8RFvgzG-xDD98rzt7JUQg line 700 > injectedScript line 2 > eval line 94 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/OLZMwUuXKff5QHkWgJZ5Acpn9ezP58Pxr98BvfUDCEE.js line 2 > eval line 12 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Error while calling actor 'customhighlighter's method 'show'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: ({})
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 383: Error: Protocol error (NS_ERROR_NOT_AVAILABLE): Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize] from: server0.conn0.windowGlobal4294967315/customhighlighter69 (resource://devtools/shared/layout/utils.js:613:0)
+console.error: "Error while calling actor 'customhighlighter's method 'show'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: ({})
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 383: Error: Protocol error (NS_ERROR_NOT_AVAILABLE): Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize] from: server0.conn0.windowGlobal4294967315/customhighlighter69 (resource://devtools/shared/layout/utils.js:613:0)
+console.error: "Error while calling actor 'customhighlighter's method 'show'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: ({})
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 383: Error: Protocol error (NS_ERROR_NOT_AVAILABLE): Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize] from: server0.conn0.windowGlobal4294967315/customhighlighter69 (resource://devtools/shared/layout/utils.js:613:0)
+console.error: "Error while calling actor 'customhighlighter's method 'show'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: ({})
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 383: Error: Protocol error (NS_ERROR_NOT_AVAILABLE): Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize] from: serverconsole.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2351))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2351))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666802217156	Marionette	INFO	Stopped listening on port 61698
+tocol error (NS_ERROR_NOT_AVAILABLE): Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize] from: server0.conn0.windowGlobal4294967315/customhighlighter69 (resource://devtools/shared/layout/utils.js:613:0)
+console.error: "Error while calling actor 'customhighlighter's method 'show'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: ({})
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 383: Error: Protocol error (NS_ERROR_NOT_AVAILABLE): Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize] from: server0.conn0.windowGlobal4294967315/customhighlighter69 (resource://devtools/shared/layout/utils.js:613:0)
+console.error: "Error while calling actor 'customhighlighter's method 'show'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: ({})
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 383: Error: Protocol error (NS_ERROR_NOT_AVAILABLE): Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize] from: server0.conn0.windowGlobal4294967315/customhighlighter69 (resource://devtools/shared/layout/utils.js:613:0)
+console.error: "Error while calling actor 'customhighlighter's method 'show'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: ({})
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 383: Error: Protocol error (NS_ERROR_NOT_AVAILABLE): Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize] from: server0.conn0.windowGlobal4294967315/customhighlighter69 (resource://devtools/shared/layout/utils.js:613:0)
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 568))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 568))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666779088331	Marionette	INFO	Stopped listening on port 61523
+earchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofile15GEzB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52388/devtools/browser/d19fd2f2-d187-4901-be88-84f2fe0ceb45
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S2064182828%3A1666778668120465&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWq9cb3xrjVbfTNsfmGyDwQWbBGUWmw6RAY8WPVWOCi7i18JznyhzBow19JgRxIiiWzdg0yl line 700 > injectedScript line 2 > eval line 6087 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/OLZMwUuXKff5QHkWgJZ5Acpn9ezP58Pxr98BvfUDCEE.js line 2 > eval line 2479 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666779087054	Marionette	INFO	Stopped listening on port 52393
+[Parent 32512, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+in&ifkv=AQDHYWrdgvGNFdBhIGDa86Don0oE0CyExMRP43UU7YPZbFWazToM5n7LL8QySYQSaiW6QXJek1wZtg line 700 > injectedScript line 2 > eval line 6184 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/OLZMwUuXKff5QHkWgJZ5Acpn9ezP58Pxr98BvfUDCEE.js line 2 > eval line 3330 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666779085486	Marionette	INFO	Stopped listening on port 52566
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "52753" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofilemGQl11"
+1666778861146	Marionette	INFO	Marionette enabled
+1666778861152	Marionette	INFO	Listening on port 52759
+WebDriver BiDi listening on ws://127.0.0.1:52753
+1666778861302	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofilemGQl11\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52753/devtools/browser/d3c7d4b2-3d56-40c7-a3f7-f24df173f3a3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S100809220%3A1666778863606252&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWrEcbqCryp4WQjepU-DJiwz9Qsj6SpluoG9bOdwXaROlRf3ckKtRzIL-zDqTxiVenOp7KMbcQ line 700 > injectedScript line 2 > eval line 2471 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/OLZMwUuXKff5QHkWgJZ5Acpn9ezP58Pxr98BvfUDCEE.js line 2 > eval line 6335 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666779084813	Marionette	INFO	Stopped listening on port 52759
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "52952" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileuqAppE"
+1666779002397	Marionette	INFO	Marionette enabled
+1666779002411	Marionette	INFO	Listening on port 52957
+WebDriver BiDi listening on ws://127.0.0.1:52952
+1666779003115	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileuqAppE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52952/devtools/browser/64219179-c6e2-4488-a946-f4f17bab90f2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S856233635%3A1666779004825969&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWrl3PweO8lwzn_q1F1GgVoXyFYgNGDVE7CPquwNUjR0S6MzB1NCo9lmxekcQxni-O6QESLeiw line 700 > injectedScript line 2 > eval line 5046 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/OLZMwUuXKff5QHkWgJZ5Acpn9ezP58Pxr98BvfUDCEE.js line 2 > eval line 6880 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666779084050	Marionette	INFO	Stopped listening on port 52957
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666779090569	geckodriver	INFO	Listening on 127.0.0.1:53127
+1666779093645	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53128" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofilevGJ6So"
+1666779094199	Marionette	INFO	Marionette enabled
+1666779094211	Marionette	INFO	Listening on port 53133
+WebDriver BiDi listening on ws://127.0.0.1:53128
+1666779094974	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofilevGJ6So\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53128/devtools/browser/26583801-bd78-447d-961b-ab84f3be81f7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-1375672336%3A1666779096612479&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWqkWfNE-PWBlKXl1VYY-tYh-1-3PNq77lwedFCxSAuyCSVxO6h9EtZVT58vo_TnADH3vL0w_w line 700 > injectedScript line 2 > eval line 6822 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/OLZMwUuXKff5QHkWgJZ5Acpn9ezP58Pxr98BvfUDCEE.js line 2 > eval line 3534 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Inspector destroyed while executing onReflow callback"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666785673115	Marionette	INFO	Stopped listening on port 53133
+d 0)))
+DevTools listening on ws://127.0.0.1:53638/devtools/browser/5e96229f-63cb-4e24-abb4-2616f101634f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-452652644%3A1666779672054998&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWr0bKrbC64EYzI9eDGIWzoET1ayGFC6K-rX4yXzNr5gKwHfyqZHDYDOFDkH3B9BZRuRNmWA line 700 > injectedScript line 2 > eval line 2499 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/OLZMwUuXKff5QHkWgJZ5Acpn9ezP58Pxr98BvfUDCEE.js line 2 > eval line 5627 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666785671755	Marionette	INFO	Stopped listening on port 53643
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "53777" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileBlCMAu"
+1666779737876	Marionette	INFO	Marionette enabled
+1666779737881	Marionette	INFO	Listening on port 53783
+WebDriver BiDi listening on ws://127.0.0.1:53777
+1666779738119	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileBlCMAu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53777/devtools/browser/a1b76b53-00d3-4c1e-8e84-1a6c3b67723f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S1711567840%3A1666779739338786&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWrmEqDiGgf1Go1oA4F8Y1Pzxn8y08fftVvmm0-fD_EGXn48bJvW1w32vzlEBy3BaBbAsrKwWg line 700 > injectedScript line 2 > eval line 48 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/OLZMwUuXKff5QHkWgJZ5Acpn9ezP58Pxr98BvfUDCEE.js line 2 > eval line 935 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666785670415	Marionette	INFO	Stopped listening on port 53783
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileidDJDY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57928/devtools/browser/c02410e9-7241-40f9-8342-a147f5aa41a5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S16917150%3A1666780964745799&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWpXpqITOA0bUjYPKTS15jtrqzjcIxW4COath8YDJ_5hpTdnKoDQAXrqtLO2OQlL-U1jvXUfhw line 700 > injectedScript line 2 > eval line 1962 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/OLZMwUuXKff5QHkWgJZ5Acpn9ezP58Pxr98BvfUDCEE.js line 2 > eval line 4061 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666785656504	Marionette	INFO	Stopped listening on port 57933
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "58064" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofile97TDcT"
+1666781020585	Marionette	INFO	Marionette enabled
+1666781020590	Marionette	INFO	Listening on port 58069
+WebDriver BiDi listening on ws://127.0.0.1:58064
+1666781020841	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofile97TDcT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58064/devtools/browser/12b5e55a-be0e-4cd5-88b1-1a8320edb06c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-704074072%3A1666781024038391&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWqDckI6f_yOwp6K5D72659NGvMhTtjr_PBOeQY25NzbZl8WMJUO-Osoj4RsNaKrQOxxQT_p line 700 > injectedScript line 2 > eval line 2685 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/OLZMwUuXKff5QHkWgJZ5Acpn9ezP58Pxr98BvfUDCEE.js line 2 > eval line 6765 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666785655926	Marionette	INFO	Stopped listening on port 58069
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "58209" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofilej0UFNO"
+1666781045565	Marionette	INFO	Marionette enabled
+1666781045570	Marionette	INFO	Listening on port 58222
+WebDriver BiDi listening on ws://127.0.0.1:58209
+1666781045819	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofilej0UFNO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58209/devtools/browser/e917271b-1f87-44ff-9e65-55e31b6340f5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-1946096331%3A1666781048612328&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWrYtA19aZZy0Vy7qJNBvrccaVF4DMX3hssrhHgMjiDWOXDtq518yrpi7ncErmqWXdwkmNhoAA line 700 > injectedScript line 2 > eval line 2625 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/OLZMwUuXKff5QHkWgJZ5Acpn9ezP58Pxr98BvfUDCEE.js line 2 > eval line 3297 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666785654894	Marionette	INFO	Stopped listening on port 58222
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "58416" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileV6l4kW"
+1666781159860	Marionette	INFO	Marionette enabled
+1666781159865	Marionette	INFO	Listening on port 58421
+WebDriver BiDi listening on ws://127.0.0.1:58416
+1666781160109	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileV6l4kW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58416/devtools/browser/91828b45-5703-4412-a01e-daca17a5c003
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S1745795732%3A1666781162968168&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWo4qHTBMmarvruMrv5yBwg6yS5eJYxvIzGokeoDTb5bEGP50USFX2Gh5IrqoIZDbm_JneTfbw line 700 > injectedScript line 2 > eval line 6009 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/OLZMwUuXKff5QHkWgJZ5Acpn9ezP58Pxr98BvfUDCEE.js line 2 > eval line 1073 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666785628511	Marionette	INFO	Stopped listening on port 58421
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666787195260	geckodriver	INFO	Listening on 127.0.0.1:56514
+1666787198336	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56515" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileczWGXE"
+1666787198886	Marionette	INFO	Marionette enabled
+1666787198895	Marionette	INFO	Listening on port 56520
+WebDriver BiDi listening on ws://127.0.0.1:56515
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 420))
+1666787199452	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileczWGXE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56515/devtools/browser/252080a3-3760-4894-87a7-99f7f4009234
+1666787214373	Marionette	INFO	Stopped listening on port 56520
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666787227410	geckodriver	INFO	Listening on 127.0.0.1:56586
+1666787230476	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56587" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofilenvc4no"
+1666787230780	Marionette	INFO	Marionette enabled
+1666787230784	Marionette	INFO	Listening on port 56593
+WebDriver BiDi listening on ws://127.0.0.1:56587
+1666787231016	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofilenvc4no\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56587/devtools/browser/bbe29206-f01c-4d79-a371-1b3e3c191a4d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S1342864507%3A1666787233773692&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWr2Zql2B_X48p6amUKlqxxO44uykBRcJk3Qnyi_x2rLoBRiPkRKEHde8ts_123ZZhUUTUbeRg line 700 > injectedScript line 2 > eval line 1744 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/OLZMwUuXKff5QHkWgJZ5Acpn9ezP58Pxr98BvfUDCEE.js line 2 > eval line 847 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666787283758	Marionette	INFO	Stopped listening on port 56593
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "51586" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileM1SykH"
+1666787264797	Marionette	INFO	Marionette enabled
+1666787264804	Marionette	INFO	Listening on port 51599
+WebDriver BiDi listening on ws://127.0.0.1:51586
+1666787265117	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileM1SykH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51586/devtools/browser/c14fadb3-a854-4181-957f-8fa13bb8ffcb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S789176954%3A1666787268432632&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWo-vIktgSRuOt4rIvfF82CgSFo25Mh8WMQl8ZrfEtS28NaSp6vZ9yLsRpJcr8CLHuclMzl1kw line 700 > injectedScript line 2 > eval line 3769 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/OLZMwUuXKff5QHkWgJZ5Acpn9ezP58Pxr98BvfUDCEE.js line 2 > eval line 7405 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666787282907	Marionette	INFO	Stopped listening on port 51599
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666802295005	geckodriver	INFO	Listening on 127.0.0.1:56356
+1666802298106	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56357" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofile3TSJ5m"
+1666802298547	Marionette	INFO	Marionette enabled
+1666802298554	Marionette	INFO	Listening on port 56362
+WebDriver BiDi listening on ws://127.0.0.1:56357
+1666802298692	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofile3TSJ5m\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56357/devtools/browser/782ed7b5-f90a-47a6-8169-c22f807f07b9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S771980209%3A1666802301560878&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWpxgBaPhGhuZCHkpzSgAhG-Sl6Vs9JhUD-9SPO323jMvRSqKWT0zxTm0FvWs3ZAeu04TZHzCg line 700 > injectedScript line 2 > eval line 2381 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/gGH5MXBYpKK8b4jYkKtywiBl7RPPQJG6QKYwKihakJE.js line 2 > eval line 6928 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666806101214	Marionette	INFO	Stopped listening on port 56362
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "65048" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileItH3Nq"
+1666803237226	Marionette	INFO	Marionette enabled
+1666803237232	Marionette	INFO	Listening on port 65057
+WebDriver BiDi listening on ws://127.0.0.1:65048
+1666803237376	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileItH3Nq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65048/devtools/browser/5757703c-15b3-47fb-af1e-882341b6ff6f
+1666803240135	Marionette	INFO	Stopped listening on port 65057
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666803376027	geckodriver	INFO	Listening on 127.0.0.1:65133
+1666804315977	geckodriver	INFO	Listening on 127.0.0.1:55752
+1666804319061	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55753" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileo1OnLU"
+1666804319402	Marionette	INFO	Marionette enabled
+1666804319408	Marionette	INFO	Listening on port 55758
+WebDriver BiDi listening on ws://127.0.0.1:55753
+1666804319645	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileo1OnLU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55753/devtools/browser/23337e01-ce68-40ab-a3ad-e83241ee65b4
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S1494175529%3A1666804325423611&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWqaEfWzGSvBN9Nx4lie62fb0rR4RyV6dvHYRCYd-T3YnwXCBV8ltn0q54M0trfavHinGVLAQw line 700 > injectedScript line 2 > eval line 815 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript error: https://mail.google.com/mail/u/0/, line 95: Error: D
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+1666804396159	Marionette	INFO	Stopped listening on port 55751666804397926	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56096" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofilediHpvj"
+1666804398286	Marionette	INFO	Marionette enabled
+1666804398291	Marionette	INFO	Listening on port 56209
+WebDriver BiDi listening on ws://127.0.0.1:56096
+1666804398549	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofilediHpvj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56096/devtools/browser/b45291a3-6fc0-4ec8-8b13-17bb96341734
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S1761838665%3A1666804402076517&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWrTuprwbj4N7j6QnPVdeHUK-4C6cTemwXX4MenCOTj8Q2HF-b8pbKhsItH5_QIq3Ik_EKay line 700 > injectedScript line 2 > eval line 4481 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1666804427375	Marionette	INFO	Stopped listening on port 56209
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666804429537	geckodriver	INFO	Listening on 127.0.0.1:56329
+1666804432635	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56330" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileiqBGjK"
+1666804432964	Marionette	INFO	Marionette enabled
+1666804432970	Marionette	INFO	Listening on port 56335
+WebDriver BiDi listening on ws://127.0.0.1:56330
+1666804433237	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileiqBGjK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56330/devtools/browser/e44da8c6-356f-4f43-9366-6f1ffb5c687c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S537335859%3A1666804438477498&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWqWvOgG4xQTwVnblNmtSseewHA2RW-7jlbfgqEj5ktTcn5GwdhFmG4TJyk41ctzpFGjeTgxIg line 700 > injectedScript line 2 > eval line 1090 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/gGH5MXBYpKK8b4jYkKtywiBl7RPPQJG6QKYwKihakJE.js line 2 > eval line 4989 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666804487357	Marionette	INFO	Stopped listening on port 56335
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666804522587	geckodriver	INFO	Listening on 127.0.0.1:56607
+1666804525651	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56608" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofile3TFaVF"
+1666804525968	Marionette	INFO	Marionette enabled
+1666804525974	Marionette	INFO	Listening on port 56613
+WebDriver BiDi listening on ws://127.0.0.1:56608
+1666804526226	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofile3TFaVF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56608/devtools/browser/8e52c1c7-f22d-494d-b6ac-f32751077667
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S1191192962%3A1666804528690122&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWp1Ph0pHdctwSKgH1lWWDW6aGjutNaKpNTTCicN406P4hS0BX5xNAZpXMrspFaqKP3u7CjHzg line 700 > injectedScript line 2 > eval line 2779 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/gGH5MXBYpKK8b4jYkKtywiBl7RPPQJG6QKYwKihakJE.js line 2 > eval line 565 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666805057374	Marionette	INFO	Stopped listening on port 56613
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56756" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileUotLLo"
+1666804652667	Marionette	INFO	Marionette enabled
+1666804652672	Marionette	INFO	Listening on port 56763
+WebDriver BiDi listening on ws://127.0.0.1:56756
+1666804652950	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileUotLLo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56756/devtools/browser/6c0c83d3-fcee-4068-9aa7-e948b9755258
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-166938053%3A1666804655506876&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWpzXg58VWfigmldUjyULgP4lQFciY4w7sOWFSK5JF0q4XCxDBmlm1Po1xzjb0Sj1BwKLD4ftA line 700 > injectedScript line 2 > eval line 6556 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/gGH5MXBYpKK8b4jYkKtywiBl7RPPQJG6QKYwKihakJE.js line 2 > eval line 4377 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2351))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2351))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666804923712	Marionette	INFO	Stopped listening on port 56763
+vtools/browser/70c2bd6c-bf0b-482e-b437-3f3f83f8eb6b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-1895327638%3A1666804836328659&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWpCSnl0FyGqJGGAHZneVfn-tkNSjRvkKrf6r0sCPakCfcvZVFj429MtdIazDuuEAu4jW4NMxg line 700 > injectedScript line 2 > eval line 2830 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/gGH5MXBYpKK8b4jYkKtywiBl7RPPQJG6QKYwKihakJE.js line 2 > eval line 3416 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666804922069	Marionette	INFO	Stopped listening on port 56970
+1666805055482	geckodriver	INFO	Listening on 127.0.0.1:57456
+1666805058565	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57457" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofilea0t8Jk"
+1666805058884	Marionette	INFO	Marionette enabled
+1666805058889	Marionette	INFO	Listening on port 57463
+WebDriver BiDi listening on ws://127.0.0.1:57457
+1666805059146	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofilea0t8Jk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57457/devtools/browser/d49c6b06-802a-4b1b-9023-5a8ea1395255
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S771980209%3A1666805061795436&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWq6PDQ_E-5G2ACZFiYx-lvTzvU4vuvmZlm0qqnAGXMzque3BK161y0_va67YU5xTX0bDWo6-w line 700 > injectedScript line 2 > eval line 2803 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/gGH5MXBYpKK8b4jYkKtywiBl7RPPQJG6QKYwKihakJE.js line 2 > eval line 2533 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666805232784	Marionette	INFO	Stopped listening on port 57463
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "57605" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofiledgSekm"
+1666805122462	Marionette	INFO	Marionette enabled
+1666805122467	Marionette	INFO	Listening on port 57612
+WebDriver BiDi listening on ws://127.0.0.1:57605
+1666805122716	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofiledgSekm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57605/devtools/browser/df63732a-53d0-4d17-8af8-c247ef93cb49
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-1107092355%3A1666805126446271&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWr27_liaxyR10sDbs0zDN1uJ0AUu-O-c0OF0Fkl-AuY-DPCMqxWLHZOCSo4w2i11eRv_PKYAg line 700 > injectedScript line 2 > eval line 3274 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/gGH5MXBYpKK8b4jYkKtywiBl7RPPQJG6QKYwKihakJE.js line 2 > eval line 601 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666805231826	Marionette	INFO	Stopped listening on port 57612
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666806123568	geckodriver	INFO	Listening on 127.0.0.1:58840
+1666806126651	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58841" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileytmJR3"
+1666806126958	Marionette	INFO	Marionette enabled
+1666806126962	Marionette	INFO	Listening on port 58847
+WebDriver BiDi listening on ws://127.0.0.1:58841
+1666806127217	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileytmJR3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58841/devtools/browser/f6dfa0d7-0d3d-4c45-b9a1-d85da6c02a9c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-989744499%3A1666806129647588&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWpNoSULDdYZmiZinAUqQTq4z124dGEqSuz5-u3XyYuziedvxBdzbJQJ015mFZs4TGwn2qXKDw line 700 > injectedScript line 2 > eval line 2790 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/gGH5MXBYpKK8b4jYkKtywiBl7RPPQJG6QKYwKihakJE.js line 2 > eval line 3925 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666806185150	Marionette	INFO	Stopped listening on port 58847
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "58979" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofile2SIj3S"
+1666806171491	Marionette	INFO	Marionette enabled
+1666806171496	Marionette	INFO	Listening on port 58984
+WebDriver BiDi listening on ws://127.0.0.1:58979
+1666806171762	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofile2SIj3S\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58979/devtools/browser/5cb86777-1f89-490e-a889-424b847f8761
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-1929025575%3A1666806174486861&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWr14hxBXzN6W2VmYGc6Iy0C_MbiZJV6ZxQKunFNSG1Ye0N1qfr44ULyhVbkvWOgyQ9x4Ha48w line 700 > injectedScript line 2 > eval line 5775 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/gGH5MXBYpKK8b4jYkKtywiBl7RPPQJG6QKYwKihakJE.js line 2 > eval line 4730 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666806184454	Marionette	INFO	Stopped listening on port 58984
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666812285261	geckodriver	INFO	Listening on 127.0.0.1:60429
+1666812288381	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60430" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileZbHasD"
+1666812289177	Marionette	INFO	Marionette enabled
+1666812289184	Marionette	INFO	Listening on port 60435
+WebDriver BiDi listening on ws://127.0.0.1:60430
+1666812289662	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+1666812290707	geckodriver	INFO	Listening on 127.0.0.1:60443
+1666812293804	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60444" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileVSdF5B"
+1666812294378	Marionette	INFO	Marionette enabled
+1666812294387	Marionette	INFO	Listening on port 60449
+WebDriver BiDi listening on ws://127.0.0.1:60444
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 420))
+1666812294885	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileVSdF5B\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60444/devtools/browser/8a78d26b-26fc-4da8-b6b6-abb2d10690c1
+1666812311488	Marionette	INFO	Stopped listening on port 60449
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666812314851	geckodriver	INFO	Listening on 127.0.0.1:54223
+1666812317979	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54224" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileTb0p8A"
+1666812318517	Marionette	INFO	Marionette enabled
+1666812318530	Marionette	INFO	Listening on port 54236
+WebDriver BiDi listening on ws://127.0.0.1:54224
+1666812319166	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileTb0p8A\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54224/devtools/browser/816b8080-edda-40a3-8cea-5fc0a4e3319a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-1240542464%3A1666812322613536&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWooPrM24KcVLpEw-_JfXKqBbMfmFoGRz9CbJHd6nx6OZg9dT31UddeGRadD4yCodxTgaCXWsQ line 700 > injectedScript line 2 > eval line 6814 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/OLZMwUuXKff5QHkWgJZ5Acpn9ezP58Pxr98BvfUDCEE.js line 2 > eval line 7233 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666812338562	Marionette	INFO	Stopped listening on port 54236
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666812400382	geckodriver	INFO	Listening on 127.0.0.1:54613
+1666812403491	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54614" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofilehasoR5"
+1666812403912	Marionette	INFO	Marionette enabled
+1666812403918	Marionette	INFO	Listening on port 54619
+WebDriver BiDi listening on ws://127.0.0.1:54614
+1666812404250	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofilehasoR5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54614/devtools/browser/5bf5cf7b-8134-46e3-bc61-0ecc81d569ec
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S1460577640%3A1666812407750670&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWovyJ7PSuJWXK4UvKPnjBwPPQAPafKda_-fEMjtdI2U_ZjRisYC6yXOI7jWsDZys_32uvvXYw line 700 > injectedScript line 2 > eval line 3678 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/OLZMwUuXKff5QHkWgJZ5Acpn9ezP58Pxr98BvfUDCEE.js line 2 > eval line 2143 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666812657161	Marionette	INFO	Stopped listening on port 54619
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54788" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileYkhy60"
+1666812545241	Marionette	INFO	Marionette enabled
+1666812545248	Marionette	INFO	Listening on port 54794
+WebDriver BiDi listening on ws://127.0.0.1:54788
+1666812545403	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileYkhy60\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54788/devtools/browser/aef46fc4-6cf7-462d-a622-d42d4b012d29
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S1024275777%3A1666812548696965&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWrTgo0GySMG4SAqiyVlEZBbom3uQZqunXyFwxWIw1Ld2SaLm50dx2WfjVxH5rZpsN3vZxXKMA line 700 > injectedScript line 2 > eval line 7098 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/OLZMwUuXKff5QHkWgJZ5Acpn9ezP58Pxr98BvfUDCEE.js line 2 > eval line 2852 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666812726994	Marionette	INFO	Stopped listening on port 54794
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666855940334	geckodriver	INFO	Listening on 127.0.0.1:52596
+1666855943457	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52597" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileeKKxgL"
+1666855943962	Marionette	INFO	Marionette enabled
+1666855943967	Marionette	INFO	Listening on port 52602
+WebDriver BiDi listening on ws://127.0.0.1:52597
+1666855944153	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileeKKxgL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52597/devtools/browser/46ef6368-e1c4-4854-8218-d5155bce6172
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S1728476074%3A1666855948274905&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWpP6CQOKy31k412DWxTmhDQupOOULScvDgVx3XMQjDbjQ3-6Lc1IyaTIRSBZLlAJwn5YoegoA line 700 > injectedScript line 2 > eval line 934 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/cfKUDseLxMX_VMI_uao_rq0MKOaeCrg8GZjSFxmotG8.js line 2 > eval line 2125 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666856021242	Marionette	INFO	Stopped listening on port 52602
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666897086596	geckodriver	INFO	Listening on 127.0.0.1:58681
+1666897089703	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58682" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofiletWwzet"
+1666897090224	Marionette	INFO	Marionette enabled
+1666897090229	Marionette	INFO	Listening on port 58687
+WebDriver BiDi listening on ws://127.0.0.1:58682
+1666897091002	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofiletWwzet\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58682/devtools/browser/836d70a4-d030-4c8d-b707-58ac330292d6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S1879142783%3A1666897093517488&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWoA3gswAYaIqxYF_cBWnJlP6gP4oY1ONrsc5yzUMU7JY-3_meRpd-9KxQy59rflkdntPluElQ line 700 > injectedScript line 2 > eval line 2275 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/cfKUDseLxMX_VMI_uao_rq0MKOaeCrg8GZjSFxmotG8.js line 2 > eval line 657 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666897110905	Marionette	INFO	Stopped listening on port 58687
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666899926833	geckodriver	INFO	Listening on 127.0.0.1:59758
+1666899929921	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59759" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofile8M5wfZ"
+1666899930499	Marionette	INFO	Marionette enabled
+1666899930508	Marionette	INFO	Listening on port 59764
+WebDriver BiDi listening on ws://127.0.0.1:59759
+1666899930675	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofile8M5wfZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59759/devtools/browser/73b6e6a5-e483-4947-8aa5-ed551b6f1787
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S638366524%3A1666899933269546&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWpUAozIhyMwO25_QuXx5mVwFqKo5fAbKxnDJvFQd-z3ejrR_LhIInf3xENUWDdptMqZ9Fvb5w line 700 > injectedScript line 2 > eval line 6219 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/cfKUDseLxMX_VMI_uao_rq0MKOaeCrg8GZjSFxmotG8.js line 2 > eval line 2066 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666901534761	Marionette	INFO	Stopped listening on port 59764
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "60038" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileFH8YEh"
+1666900021095	Marionette	INFO	Marionette enabled
+1666900021101	Marionette	INFO	Listening on port 60043
+WebDriver BiDi listening on ws://127.0.0.1:60038
+1666900021318	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileFH8YEh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60038/devtools/browser/95cf2bef-7bae-46a9-9581-2956ba86ab38
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S923145208%3A1666900023735469&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWpb0aWaOR3HGBW8JCg9u188otxNHpkVcQ6hU221mGm0urTVWRoZybaYzPt1tQB4ooUW3kJZhg line 700 > injectedScript line 2 > eval line 2784 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/cfKUDseLxMX_VMI_uao_rq0MKOaeCrg8GZjSFxmotG8.js line 2 > eval line 5225 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666901533282	Marionette	INFO	Stopped listening on port 60043
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 13964, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+900072033	Marionette	INFO	Marionette enabled
+1666900072041	Marionette	INFO	Listening on port 60257
+WebDriver BiDi listening on ws://127.0.0.1:60252
+1666900072495	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileLNJopV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60252/devtools/browser/2619fa6a-98f2-4c36-a275-da95c88d6ca7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-637497106%3A1666900074961970&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWqkNVxnvlyJPbFsSbZtKA8cFI7D_Pp7TMRZ2pZgwpWyN-PWgfJQvcgFDbtK60c2WWBnWvX-zw line 700 > injectedScript line 2 > eval line 6277 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/cfKUDseLxMX_VMI_uao_rq0MKOaeCrg8GZjSFxmotG8.js line 2 > eval line 5316 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666901531714	Marionette	INFO	Stopped listening on port 60257
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "60558" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofilehQXOTP"
+1666900110341	Marionette	INFO	Marionette enabled
+1666900110347	Marionette	INFO	Listening on port 60563
+WebDriver BiDi listening on ws://127.0.0.1:60558
+1666900111081	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofilehQXOTP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60558/devtools/browser/439f8ec7-c56f-47ca-b721-d649e8910cfa
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S252293473%3A1666900113453638&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWqo2Px82YCuRumCc7o1RlWuAThFZpd8KH3wc8bMbTtcrKfmGDdr4Xn0Z3yf97YvJSh0vf_2Bw line 700 > injectedScript line 2 > eval line 6013 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/cfKUDseLxMX_VMI_uao_rq0MKOaeCrg8GZjSFxmotG8.js line 2 > eval line 1936 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666901530116	Marionette	INFO	Stopped listening on port 60563
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "60813" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileXBbkMB"
+1666900296676	Marionette	INFO	Marionette enabled
+1666900296688	Marionette	INFO	Listening on port 60818
+WebDriver BiDi listening on ws://127.0.0.1:60813
+1666900297416	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileXBbkMB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60813/devtools/browser/d8f92f1c-9a2f-4c29-b145-06a322123508
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S621775225%3A1666900300228613&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWpFppxddag5b5xJUwBcChazt1mcsiahrgK7BtxaYxQhfMjd1YUod7aKzFmSUJATxYuL_pNd line 700 > injectedScript line 2 > eval line 484 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1666900311004	Marionette	INFO	Stopped listening on port 60818
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666901106618	geckodriver	INFO	Listening on 127.0.0.1:60121
+1666901109740	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60122" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileCVGKwM"
+1666901110405	Marionette	INFO	Marionette enabled
+1666901110419	Marionette	INFO	Listening on port 60127
+WebDriver BiDi listening on ws://127.0.0.1:60122
+1666901110975	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileCVGKwM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60122/devtools/browser/aa26ef2e-48e3-45ec-83a5-9fb6d6950713
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S1745569749%3A1666901113564884&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWqMqmgRkbF4gZvsYntu9TC5GStFQRYIqvVxXyY0SH0IiKD2kJrGug-Npw0iF1w4AYZzMuW5Qg line 700 > injectedScript line 2 > eval line 1000 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1666901123205	Marionette	INFO	Stopped listening on port 60127
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666901156726	geckodriver	INFO	Listening on 127.0.0.1:60220
+1666901159813	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60221" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofilefD2nv7"
+1666901160247	Marionette	INFO	Marionette enabled
+1666901160263	Marionette	INFO	Listening on port 60234
+WebDriver BiDi listening on ws://127.0.0.1:60221
+1666901160456	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofilefD2nv7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60221/devtools/browser/393610b3-9e1d-4b0d-b22c-be6c0db4fc4b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S453415512%3A1666901163344588&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWqrGKN0JwOecBrjar05dJ-WzLrylGO2HZ66-mJptqSy1V7xdSw_uzTP2V9Y2O_yduabjrgTYg line 700 > injectedScript line 2 > eval line 2356 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1666901173868	Marionette	INFO	Stopped listening on port 60234
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666901231174	geckodriver	INFO	Listening on 127.0.0.1:60370
+1666901234339	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60371" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofilelvxoE7"
+1666901234736	Marionette	INFO	Marionette enabled
+1666901234742	Marionette	INFO	Listening on port 60376
+WebDriver BiDi listening on ws://127.0.0.1:60371
+1666901235117	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofilelvxoE7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60371/devtools/browser/38eb8a28-6a8b-4778-b3a7-3bd54e1b1e2a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-2062992493%3A1666901237302214&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWpDBL4z8cmU6CXALiebcken2BETiDNI1lzy50zWCG9XeEapQmhpE26jx9q8duqmMiKnY5K2hg line 700 > injectedScript line 2 > eval line 1385 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/cfKUDseLxMX_VMI_uao_rq0MKOaeCrg8GZjSFxmotG8.js line 2 > eval line 5363 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666901250471	Marionette	INFO	Stopped listening on port 60376
+1666901351929	geckodriver	INFO	Listening on 127.0.0.1:60648
+1666901355022	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60649" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileLceIUB"
+1666901355458	Marionette	INFO	Marionette enabled
+1666901355463	Marionette	INFO	Listening on port 60654
+WebDriver BiDi listening on ws://127.0.0.1:60649
+1666901355762	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileLceIUB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60649/devtools/browser/45cfa3ac-97f1-4b72-afb8-e057d16b0530
+1666901528544	Marionette	INFO	Stopped listening on port 60654
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "60834" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofilergGq8Q"
+1666901479910	Marionette	INFO	Marionette enabled
+1666901479918	Marionette	INFO	Listening on port 60845
+WebDriver BiDi listening on ws://127.0.0.1:60834
+1666901480113	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofilergGq8Q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60834/devtools/browser/d688902a-b089-4e12-99b2-45bb48359ace
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-1392409664%3A1666901482392857&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWrdF10fF9pZXf6yOpJvduHXOaOFW1L1vyhONDQS1WkFs38F6jPXejY221VwaNnHkb4NebBlTw line 700 > injectedScript line 2 > eval line 7268 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/cfKUDseLxMX_VMI_uao_rq0MKOaeCrg8GZjSFxmotG8.js line 2 > eval line 2666 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666901527150	Marionette	INFO	Stopped listening on port 60845
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666901537784	geckodriver	INFO	Listening on 127.0.0.1:61146
+1666901540890	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61147" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofilewK3lul"
+1666901541429	Marionette	INFO	Marionette enabled
+1666901541437	Marionette	INFO	Listening on port 61153
+WebDriver BiDi listening on ws://127.0.0.1:61147
+1666901542222	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofilewK3lul\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61147/devtools/browser/6d03e858-427b-49a6-bdeb-ef113b9db457
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S486580394%3A1666901544545451&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWp_-Enu5UUabT5ckdoZv_JzFeGD_6226EC1BD8s3AP3N_i8cah6ucoMS4k95mF8ROCO4euaoQ line 700 > injectedScript line 2 > eval line 1419 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/cfKUDseLxMX_VMI_uao_rq0MKOaeCrg8GZjSFxmotG8.js line 2 > eval line 2335 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666901570894	geckodriver	INFO	Listening on 127.0.0.1:61347
+1666901573988	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61348" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofile1E3QUj"
+1666901574567	Marionette	INFO	Marionette enabled
+1666901574575	Marionette	INFO	Listening on port 61354
+WebDriver BiDi listening on ws://127.0.0.1:61348
+1666901575260	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofile1E3QUj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61348/devtools/browser/9e6c7357-cd14-4061-a76b-c6235a050f89
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S151792827%3A1666901577306139&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWps0imOjVfzSwdX3I2ZZSFXR01g0cG-tKR-YA8nVfIBPomizenWVQB1quSQToUV3444oFJiWg line 700 > injectedScript line 2 > eval line 6902 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/cfKUDseLxMX_VMI_uao_rq0MKOaeCrg8GZjSFxmotG8.js line 2 > eval line 6828 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666901816859	geckodriver	INFO	Listening on 127.0.0.1:61659
+1666901819965	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61660" "-no-remote" "-profile" "C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileaQqO44"
+1666901820486	Marionette	INFO	Marionette enabled
+1666901820498	Marionette	INFO	Listening on port 61666
+WebDriver BiDi listening on ws://127.0.0.1:61660
+1666901821278	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biter\\AppData\\Local\\Temp\\rust_mozprofileaQqO44\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61660/devtools/browser/37cd598f-1f11-4f86-8535-1c75c2e16e6a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S402904671%3A1666901823611554&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWoz7VQ90EJlcN8y6M_N2gjjAkGcTsP1Ybhyb9LWtD9KFPV7lWQmwMPpKKYYKw7XiOHtj2ALLQ line 700 > injectedScript line 2 > eval line 6830 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/cfKUDseLxMX_VMI_uao_rq0MKOaeCrg8GZjSFxmotG8.js line 2 > eval line 824 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666903338844	Marionette	INFO	Stopped listening on port 61666
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
